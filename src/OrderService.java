@@ -2,6 +2,6 @@
 public class OrderService {
 
   public void createOrder() {
-    System.out.println("Order created");
+    System.out.println("Order created from MAIN");
   }
 }
